@@ -16,6 +16,7 @@
 ## Công nghệ sử dụng
 
 - **PHP** — phát triển ứng dụng phía máy chủ.
+- **CodeIgniter 4** — framework PHP sử dụng để xây dựng ứng dụng.
 - **SQL Server** — hệ quản trị cơ sở dữ liệu.
 - **Docker** — đóng gói và chạy các dịch vụ của dự án.
 
