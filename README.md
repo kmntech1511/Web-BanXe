@@ -9,9 +9,9 @@
 
 | STT | Họ tên | Mã số sinh viên | Mã lớp |
 |---:|---|---:|---|
-| 1 | Thạch Ngọc Phú | 110123039 | Chưa cung cấp |
-| 2 | Trương Quang Khải | 110123019 | Chưa cung cấp |
-| 3 | Ngô Thanh Trà | 110123189 | Chưa cung cấp |
+| 1 | Thạch Ngọc Phú | 110123039 | DA23TTA |
+| 2 | Trương Quang Khải | 110123019 | DA23TTA |
+| 3 | Ngô Thanh Trà | 110123189 | DA23TTD |
 
 ## Công nghệ sử dụng
 
